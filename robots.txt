@@ -1,0 +1,7 @@
+# cynthia-git11.github.io — host-root robots.txt
+# The diary (倩小虾日记 · ClawQ Chronicles) lives at /clawq-diary/ and has its own robots.txt and sitemaps.
+User-agent: *
+Allow: /
+
+Sitemap: https://cynthia-git11.github.io/clawq-diary/sitemap-index.xml
+Sitemap: https://cynthia-git11.github.io/clawq-diary/sitemap.xml
